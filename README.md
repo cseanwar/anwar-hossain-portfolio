@@ -1,60 +1,56 @@
-<!-- # Let's Build your Portfolio  -->
-<!-- <img src="./portfolio.png"> -->
+# 🌐 Personal Portfolio Website
 
-# Image generation prompts
-# Professional Studio Portrait Prompts
+This is my personal portfolio website showcasing my skills, projects, and experience as a Junior Web Developer. It highlights the work I’ve done using modern web technologies and demonstrates my ability to build responsive and user-friendly applications.
 
-These prompts are designed to generate ultra-realistic corporate-style studio portraits
-
-
-
-
-## Prompt 1: Professional Man (Corporate Headshot)
+## 🚀 Live Demo
 ```bash
-Create a professional studio portrait of a smiling, smart, and confident man, using the reference image.
-Preserve the exact face, facial structure, skin tone, hairstyle, beard, and overall identity from the original image. Do not alter identity.
-
-Pose: standing straight with a confident posture, arms crossed — left forearm horizontal across the torso, right arm placed over it, right hand tucked under the left bicep.
-
-Outfit: navy blue blazer, light blue formal shirt, no tie.
-
-Lighting: soft professional studio lighting, evenly lit face with gentle natural shadows for depth.
-
-Background: solid black, clean and distraction-free.
-
-Camera & Style: eye-level angle, mid-torso to head framing, corporate headshot, ultra-realistic, DSLR photography, sharp focus, 4K quality.
-
+👉 https://cseanwar.github.io/anwar-hossain-portfolio/
 ```
 
-## Prompt 2: Professional Woman (Corporate Headshot)
+---
+
+## 🧑‍💻 About Me
+I am a Junior Web Developer with a focus on building modern, responsive, and dynamic web applications. I enjoy turning ideas into real-world projects using JavaScript and React, while continuously improving my skills.
+
+---
+
+## ✨ Features
+- Responsive design (mobile, tablet, desktop)
+- Clean and modern UI
+- Projects showcase section
+- Skills overview
+- Contact section
+- Smooth navigation
+
+---
+
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3    
+
+---
+
+## 📂 Sections Included
+- Hero / Introduction  
+- About Me  
+- Skills   
+- Contact  
+
+---
+
+## 📌 Projects Featured
+This portfolio includes several projects demonstrating: 
+- Responsive UI design  
+- Real-world problem solving  
+
+---
+
+## ⚙️ Installation & Usage
+
+To run locally:
+
 ```bash
-Create a professional studio portrait of a smiling, smart, and confident woman, using the reference image.
-Preserve the exact face, facial structure, skin tone, hairstyle, and overall identity from the original image. Do not alter identity.
-
-Pose: standing straight with a confident posture, arms crossed — left forearm horizontal across the torso, right arm placed over it, right hand tucked under the left bicep.
-
-Outfit: navy blue blazer, light blue formal shirt, no tie.
-
-Lighting: soft professional studio lighting, evenly lit face with gentle natural shadows for depth.
-
-Background: solid black, clean and distraction-free.
-
-Camera & Style: eye-level angle, mid-torso to head framing, corporate headshot, ultra-realistic, DSLR photography, sharp focus, 4K quality.
-
-```
-
-## Prompt 3: Muslim Woman (Navy Blue Burkha)
-```bash
-Create a professional studio portrait of a smiling, smart, and confident Muslim woman, using the reference image.
-Preserve the exact face, facial structure, skin tone, eye shape, and overall identity from the original image. Do not alter identity.
-
-Attire: modest navy blue burkha (abaya) with a matching navy blue hijab, neatly draped, elegant and professional. Face clearly visible.
-
-Pose: standing straight with a confident posture, arms crossed — left forearm horizontal across the torso, right arm placed over it, right hand tucked under the left bicep.
-
-Lighting: soft professional studio lighting, evenly lit face with gentle natural shadows for depth.
-
-Background: solid black, clean and distraction-free.
-
-Camera & Style: eye-level angle, mid-torso to head framing, corporate headshot, ultra-realistic, DSLR photography, sharp focus, 4K quality.
+git clone https://github.com/cseanwar/anwar-hossain-portfolio.git
+cd anwar-hossain-portfolio
+open index.html
 ```
